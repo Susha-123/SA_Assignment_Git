@@ -1,0 +1,10 @@
+
+
+#ignore all class files
+*.class
+
+#ignore all setting files
+*.setting
+
+#ingnore all project files
+*.project
